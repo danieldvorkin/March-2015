@@ -2,4 +2,4 @@
 My Personal Online Resume
 
 # Access it online
-https://cdn.rawgit.com/danieldvorkin/Online_Resume/master/index.html
+www.danieldvorkin.com
